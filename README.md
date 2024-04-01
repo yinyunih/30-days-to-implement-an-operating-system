@@ -6,5 +6,9 @@ Take operating system courses and do it for fun
 ## 目前进度
 * [Day1](Day1/Day1.md)
 * [Day2](Day2/Day2.md)
-* [Day3](Day3/Day3.md) 
+* [Day3](Day3/Day3.md)
 * [Day4](Day4/Day4.md)
+* [Day5](Day5/Day5.md)
+* [Day6](Day6/Day6.md)
+* [Day7](Day7/Day7.md)
+* [Day8](Day8/Day8.md)
